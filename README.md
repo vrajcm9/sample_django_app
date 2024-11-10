@@ -52,6 +52,5 @@ The system is set up with reasonable defaults, including 404 logging and integra
 
 You must set the DSN url in production.
 
-## Deployment
-
-The following details how to deploy this application.
+## Chart API Endpoint
+      $ api/chart-data/
